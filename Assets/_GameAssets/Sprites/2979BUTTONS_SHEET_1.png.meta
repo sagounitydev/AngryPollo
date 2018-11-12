@@ -1,0 +1,991 @@
+fileFormatVersion: 2
+guid: fac2174015accc547b74643ee52d7618
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 2979BUTTONS_SHEET_1_0
+    21300002: 2979BUTTONS_SHEET_1_1
+    21300004: 2979BUTTONS_SHEET_1_2
+    21300006: 2979BUTTONS_SHEET_1_3
+    21300008: 2979BUTTONS_SHEET_1_4
+    21300010: 2979BUTTONS_SHEET_1_5
+    21300012: 2979BUTTONS_SHEET_1_6
+    21300014: 2979BUTTONS_SHEET_1_7
+    21300016: 2979BUTTONS_SHEET_1_8
+    21300018: 2979BUTTONS_SHEET_1_9
+    21300020: 2979BUTTONS_SHEET_1_10
+    21300022: 2979BUTTONS_SHEET_1_11
+    21300024: 2979BUTTONS_SHEET_1_12
+    21300026: 2979BUTTONS_SHEET_1_13
+    21300028: 2979BUTTONS_SHEET_1_14
+    21300030: 2979BUTTONS_SHEET_1_15
+    21300032: 2979BUTTONS_SHEET_1_16
+    21300034: 2979BUTTONS_SHEET_1_17
+    21300036: 2979BUTTONS_SHEET_1_18
+    21300038: 2979BUTTONS_SHEET_1_19
+    21300040: 2979BUTTONS_SHEET_1_20
+    21300042: 2979BUTTONS_SHEET_1_21
+    21300044: 2979BUTTONS_SHEET_1_22
+    21300046: 2979BUTTONS_SHEET_1_23
+    21300048: 2979BUTTONS_SHEET_1_24
+    21300050: 2979BUTTONS_SHEET_1_25
+    21300052: 2979BUTTONS_SHEET_1_26
+    21300054: 2979BUTTONS_SHEET_1_27
+    21300056: 2979BUTTONS_SHEET_1_28
+    21300058: 2979BUTTONS_SHEET_1_29
+    21300060: 2979BUTTONS_SHEET_1_30
+    21300062: 2979BUTTONS_SHEET_1_31
+    21300064: 2979BUTTONS_SHEET_1_32
+    21300066: 2979BUTTONS_SHEET_1_33
+    21300068: 2979BUTTONS_SHEET_1_34
+    21300070: 2979BUTTONS_SHEET_1_35
+    21300072: 2979BUTTONS_SHEET_1_36
+    21300074: 2979BUTTONS_SHEET_1_37
+    21300076: 2979BUTTONS_SHEET_1_38
+    21300078: 2979BUTTONS_SHEET_1_39
+    21300080: 2979BUTTONS_SHEET_1_40
+    21300082: 2979BUTTONS_SHEET_1_41
+    21300084: 2979BUTTONS_SHEET_1_42
+    21300086: 2979BUTTONS_SHEET_1_43
+    21300088: 2979BUTTONS_SHEET_1_44
+    21300090: 2979BUTTONS_SHEET_1_45
+    21300092: 2979BUTTONS_SHEET_1_46
+    21300094: 2979BUTTONS_SHEET_1_47
+    21300096: 2979BUTTONS_SHEET_1_48
+    21300098: 2979BUTTONS_SHEET_1_49
+    21300100: 2979BUTTONS_SHEET_1_50
+    21300102: 2979BUTTONS_SHEET_1_51
+    21300104: 2979BUTTONS_SHEET_1_52
+    21300106: 2979BUTTONS_SHEET_1_53
+    21300108: 2979BUTTONS_SHEET_1_54
+    21300110: 2979BUTTONS_SHEET_1_55
+    21300112: 2979BUTTONS_SHEET_1_56
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 748
+        width: 272
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_1
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 748
+        width: 236
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_2
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 756
+        width: 264
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_3
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 763
+        width: 236
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 648
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 589
+        width: 159
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_6
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 608
+        width: 135
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_7
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 621
+        width: 170
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_8
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 630
+        width: 110
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_9
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 630
+        width: 110
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_10
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 630
+        width: 110
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_11
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 630
+        width: 110
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 554
+        width: 95
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_13
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 439
+        width: 142
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_14
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 469
+        width: 135
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_15
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 504
+        width: 110
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_16
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 507
+        width: 104
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_17
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 507
+        width: 106
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_18
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 508
+        width: 104
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_19
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 508
+        width: 104
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_20
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 550
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 417
+        width: 55
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_22
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 289
+        width: 141
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_23
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 336
+        width: 123
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_24
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 387
+        width: 110
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_25
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 393
+        width: 104
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_26
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 395
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_27
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 395
+        width: 103
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_28
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 394
+        width: 104
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_29
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 435
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 314
+        width: 96
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_31
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 213
+        width: 115
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_32
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 270
+        width: 110
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_33
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 280
+        width: 104
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_34
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 284
+        width: 104
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_35
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 290
+        width: 102
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_36
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 303
+        width: 185
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 213
+        width: 96
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_38
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 143
+        width: 147
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_39
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 153
+        width: 110
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_40
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 167
+        width: 104
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_41
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 175
+        width: 101
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_42
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 212
+        width: 195
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_43
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 139
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_44
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1
+        width: 140
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_45
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 95
+        width: 111
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_46
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 39
+        width: 104
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_47
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 55
+        width: 103
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_48
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 70
+        width: 102
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_49
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 137
+        width: 246
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_50
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 63
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_51
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 21
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_52
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 29
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_53
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 20
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_54
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 65
+        width: 165
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_55
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2979BUTTONS_SHEET_1_56
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 2
+        width: 45
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

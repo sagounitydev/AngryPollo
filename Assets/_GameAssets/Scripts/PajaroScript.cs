@@ -4,16 +4,25 @@ using UnityEngine;
 
 public class PajaroScript : MonoBehaviour {
 
-    Touch [] pulsaciones;
+    public int maxForce = 200;
+    Touch[] pulsaciones;
     Touch pulsacion;
-    
-	void Update () {
+    Vector2 posicionInicial;
+    Vector2 posicionFinal;
+
+
+    void Update() {
         pulsaciones = Input.touches;
-        if (pulsaciones.Length==0) {
+        //Si no hay pulsaciones no seguimos
+        if (pulsaciones.Length == 0) {
             return;
         }
         //Recojo la pulsación
         pulsacion = pulsaciones[0];
+
+        if (!ComprobarPulsacionObjetoByName(pulsacion, "PolloCabreao")) {
+            return;
+        }
 
         //Evaluar las pulsaciones
         switch (pulsacion.phase) {
@@ -36,27 +45,51 @@ public class PajaroScript : MonoBehaviour {
                 //EjecutarAccionPorDefectoToque();
                 break;
         }
-	}
+    }
 
     void ComenzarToque() {
         //Obtenemos el vector de posición en el mundo del juego
-        Vector3 posicionConvertida = getWorldPosition(pulsacion);
-        //Restauramos la Z original del pájaro
-        posicionConvertida.z = transform.position.z;
+        Vector2 posicionConvertida = getWorldPosition(pulsacion);
+        //Asignamos la nueva posición
+        transform.position = posicionConvertida;
+        posicionInicial = posicionConvertida;
+    }
+
+    void MoverToque() {
+        //Obtenemos el vector de posición en el mundo del juego
+        Vector2 posicionConvertida = getWorldPosition(pulsacion);
         //Asignamos la nueva posición
         transform.position = posicionConvertida;
     }
 
-    void MoverToque() {
-
-    }
-
     void FinalizarToque() {
-
+        //Asignamos la nueva posición
+        posicionFinal = getWorldPosition(pulsacion);
+        //Calculamos direccion
+        Vector2 vectorDistancia = (posicionInicial - posicionFinal);
+        Vector2 vectorDireccion = vectorDistancia.normalized;
+        float distancia = vectorDistancia.magnitude;
+        //Ponemos el rigidbody2d en modo kinematic
+        GetComponent<Rigidbody2D>().isKinematic = false;
+        //Le damos un empujon
+        GetComponent<Rigidbody2D>().AddRelativeForce(vectorDireccion * distancia * maxForce);
     }
-    
-    private Vector3 getWorldPosition(Touch _t) {
-        return Camera.main.ScreenToWorldPoint(new Vector3(_t.position.x, _t.position.y, 0));
+
+    private Vector2 getWorldPosition(Touch _t) {
+        return Camera.main.ScreenToWorldPoint(new Vector2(_t.position.x, _t.position.y));
+    }
+
+    private bool ComprobarPulsacionObjetoByName(Touch _t, string _name) {
+        bool estaPulsado = false;
+        //Posicion del Touch en funcion del mundo
+        Vector3 touchWorldPosition = getWorldPosition(_t);
+        //Obtencion del objeto pulsado
+        RaycastHit2D rch2d = Physics2D.Raycast(Camera.main.transform.position, touchWorldPosition);
+        //Comprobacion
+        if (rch2d.transform != null && rch2d.transform.gameObject.name == _name) {
+            estaPulsado = true;
+        }
+        return estaPulsado;
     }
 
 }
