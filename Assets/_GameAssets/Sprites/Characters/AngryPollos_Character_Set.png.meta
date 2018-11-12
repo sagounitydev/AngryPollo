@@ -1,0 +1,6316 @@
+fileFormatVersion: 2
+guid: 2a3f265c8bcedea4884c64c8b6d0c250
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: AngryPollos_Character_Set_0
+    21300002: AngryPollos_Character_Set_1
+    21300004: AngryPollos_Character_Set_2
+    21300006: AngryPollos_Character_Set_3
+    21300008: AngryPollos_Character_Set_4
+    21300010: AngryPollos_Character_Set_5
+    21300012: AngryPollos_Character_Set_6
+    21300014: AngryPollos_Character_Set_7
+    21300016: AngryPollos_Character_Set_8
+    21300018: AngryPollos_Character_Set_9
+    21300020: AngryPollos_Character_Set_10
+    21300022: AngryPollos_Character_Set_11
+    21300024: AngryPollos_Character_Set_12
+    21300026: AngryPollos_Character_Set_13
+    21300028: AngryPollos_Character_Set_14
+    21300030: AngryPollos_Character_Set_15
+    21300032: AngryPollos_Character_Set_16
+    21300034: AngryPollos_Character_Set_17
+    21300036: AngryPollos_Character_Set_18
+    21300038: AngryPollos_Character_Set_19
+    21300040: AngryPollos_Character_Set_20
+    21300042: AngryPollos_Character_Set_21
+    21300044: AngryPollos_Character_Set_22
+    21300046: AngryPollos_Character_Set_23
+    21300048: AngryPollos_Character_Set_24
+    21300050: AngryPollos_Character_Set_25
+    21300052: AngryPollos_Character_Set_26
+    21300054: AngryPollos_Character_Set_27
+    21300056: AngryPollos_Character_Set_28
+    21300058: AngryPollos_Character_Set_29
+    21300060: AngryPollos_Character_Set_30
+    21300062: AngryPollos_Character_Set_31
+    21300064: AngryPollos_Character_Set_32
+    21300066: AngryPollos_Character_Set_33
+    21300068: AngryPollos_Character_Set_34
+    21300070: AngryPollos_Character_Set_35
+    21300072: AngryPollos_Character_Set_36
+    21300074: AngryPollos_Character_Set_37
+    21300076: AngryPollos_Character_Set_38
+    21300078: AngryPollos_Character_Set_39
+    21300080: AngryPollos_Character_Set_40
+    21300082: AngryPollos_Character_Set_41
+    21300084: AngryPollos_Character_Set_42
+    21300086: AngryPollos_Character_Set_43
+    21300088: AngryPollos_Character_Set_44
+    21300090: AngryPollos_Character_Set_45
+    21300092: AngryPollos_Character_Set_46
+    21300094: AngryPollos_Character_Set_47
+    21300096: AngryPollos_Character_Set_48
+    21300098: AngryPollos_Character_Set_49
+    21300100: AngryPollos_Character_Set_50
+    21300102: AngryPollos_Character_Set_51
+    21300104: AngryPollos_Character_Set_52
+    21300106: AngryPollos_Character_Set_53
+    21300108: AngryPollos_Character_Set_54
+    21300110: AngryPollos_Character_Set_55
+    21300112: AngryPollos_Character_Set_56
+    21300114: AngryPollos_Character_Set_57
+    21300116: AngryPollos_Character_Set_58
+    21300118: AngryPollos_Character_Set_59
+    21300120: AngryPollos_Character_Set_60
+    21300122: AngryPollos_Character_Set_61
+    21300124: AngryPollos_Character_Set_62
+    21300126: AngryPollos_Character_Set_63
+    21300128: AngryPollos_Character_Set_64
+    21300130: AngryPollos_Character_Set_65
+    21300132: AngryPollos_Character_Set_66
+    21300134: AngryPollos_Character_Set_67
+    21300136: AngryPollos_Character_Set_68
+    21300138: AngryPollos_Character_Set_69
+    21300140: AngryPollos_Character_Set_70
+    21300142: AngryPollos_Character_Set_71
+    21300144: AngryPollos_Character_Set_72
+    21300146: AngryPollos_Character_Set_73
+    21300148: AngryPollos_Character_Set_74
+    21300150: AngryPollos_Character_Set_75
+    21300152: AngryPollos_Character_Set_76
+    21300154: AngryPollos_Character_Set_77
+    21300156: AngryPollos_Character_Set_78
+    21300158: AngryPollos_Character_Set_79
+    21300160: AngryPollos_Character_Set_80
+    21300162: AngryPollos_Character_Set_81
+    21300164: AngryPollos_Character_Set_82
+    21300166: AngryPollos_Character_Set_83
+    21300168: AngryPollos_Character_Set_84
+    21300170: AngryPollos_Character_Set_85
+    21300172: AngryPollos_Character_Set_86
+    21300174: AngryPollos_Character_Set_87
+    21300176: AngryPollos_Character_Set_88
+    21300178: AngryPollos_Character_Set_89
+    21300180: AngryPollos_Character_Set_90
+    21300182: AngryPollos_Character_Set_91
+    21300184: AngryPollos_Character_Set_92
+    21300186: AngryPollos_Character_Set_93
+    21300188: AngryPollos_Character_Set_94
+    21300190: AngryPollos_Character_Set_95
+    21300192: AngryPollos_Character_Set_96
+    21300194: AngryPollos_Character_Set_97
+    21300196: AngryPollos_Character_Set_98
+    21300198: AngryPollos_Character_Set_99
+    21300200: AngryPollos_Character_Set_100
+    21300202: AngryPollos_Character_Set_101
+    21300204: AngryPollos_Character_Set_102
+    21300206: AngryPollos_Character_Set_103
+    21300208: AngryPollos_Character_Set_104
+    21300210: AngryPollos_Character_Set_105
+    21300212: AngryPollos_Character_Set_106
+    21300214: AngryPollos_Character_Set_107
+    21300216: AngryPollos_Character_Set_108
+    21300218: AngryPollos_Character_Set_109
+    21300220: AngryPollos_Character_Set_110
+    21300222: AngryPollos_Character_Set_111
+    21300224: AngryPollos_Character_Set_112
+    21300226: AngryPollos_Character_Set_113
+    21300228: AngryPollos_Character_Set_114
+    21300230: AngryPollos_Character_Set_115
+    21300232: AngryPollos_Character_Set_116
+    21300234: AngryPollos_Character_Set_117
+    21300236: AngryPollos_Character_Set_118
+    21300238: AngryPollos_Character_Set_119
+    21300240: AngryPollos_Character_Set_120
+    21300242: AngryPollos_Character_Set_121
+    21300244: AngryPollos_Character_Set_122
+    21300246: AngryPollos_Character_Set_123
+    21300248: AngryPollos_Character_Set_124
+    21300250: AngryPollos_Character_Set_125
+    21300252: AngryPollos_Character_Set_126
+    21300254: AngryPollos_Character_Set_127
+    21300256: AngryPollos_Character_Set_128
+    21300258: AngryPollos_Character_Set_129
+    21300260: AngryPollos_Character_Set_130
+    21300262: AngryPollos_Character_Set_131
+    21300264: AngryPollos_Character_Set_132
+    21300266: AngryPollos_Character_Set_133
+    21300268: AngryPollos_Character_Set_134
+    21300270: AngryPollos_Character_Set_135
+    21300272: AngryPollos_Character_Set_136
+    21300274: AngryPollos_Character_Set_137
+    21300276: AngryPollos_Character_Set_138
+    21300278: AngryPollos_Character_Set_139
+    21300280: AngryPollos_Character_Set_140
+    21300282: AngryPollos_Character_Set_141
+    21300284: AngryPollos_Character_Set_142
+    21300286: AngryPollos_Character_Set_143
+    21300288: AngryPollos_Character_Set_144
+    21300290: AngryPollos_Character_Set_145
+    21300292: AngryPollos_Character_Set_146
+    21300294: AngryPollos_Character_Set_147
+    21300296: AngryPollos_Character_Set_148
+    21300298: AngryPollos_Character_Set_149
+    21300300: AngryPollos_Character_Set_150
+    21300302: AngryPollos_Character_Set_151
+    21300304: AngryPollos_Character_Set_152
+    21300306: AngryPollos_Character_Set_153
+    21300308: AngryPollos_Character_Set_154
+    21300310: AngryPollos_Character_Set_155
+    21300312: AngryPollos_Character_Set_156
+    21300314: AngryPollos_Character_Set_157
+    21300316: AngryPollos_Character_Set_158
+    21300318: AngryPollos_Character_Set_159
+    21300320: AngryPollos_Character_Set_160
+    21300322: AngryPollos_Character_Set_161
+    21300324: AngryPollos_Character_Set_162
+    21300326: AngryPollos_Character_Set_163
+    21300328: AngryPollos_Character_Set_164
+    21300330: AngryPollos_Character_Set_165
+    21300332: AngryPollos_Character_Set_166
+    21300334: AngryPollos_Character_Set_167
+    21300336: AngryPollos_Character_Set_168
+    21300338: AngryPollos_Character_Set_169
+    21300340: AngryPollos_Character_Set_170
+    21300342: AngryPollos_Character_Set_171
+    21300344: AngryPollos_Character_Set_172
+    21300346: AngryPollos_Character_Set_173
+    21300348: AngryPollos_Character_Set_174
+    21300350: AngryPollos_Character_Set_175
+    21300352: AngryPollos_Character_Set_176
+    21300354: AngryPollos_Character_Set_177
+    21300356: AngryPollos_Character_Set_178
+    21300358: AngryPollos_Character_Set_179
+    21300360: AngryPollos_Character_Set_180
+    21300362: AngryPollos_Character_Set_181
+    21300364: AngryPollos_Character_Set_182
+    21300366: AngryPollos_Character_Set_183
+    21300368: AngryPollos_Character_Set_184
+    21300370: AngryPollos_Character_Set_185
+    21300372: AngryPollos_Character_Set_186
+    21300374: AngryPollos_Character_Set_187
+    21300376: AngryPollos_Character_Set_188
+    21300378: AngryPollos_Character_Set_189
+    21300380: AngryPollos_Character_Set_190
+    21300382: AngryPollos_Character_Set_191
+    21300384: AngryPollos_Character_Set_192
+    21300386: AngryPollos_Character_Set_193
+    21300388: AngryPollos_Character_Set_194
+    21300390: AngryPollos_Character_Set_195
+    21300392: AngryPollos_Character_Set_196
+    21300394: AngryPollos_Character_Set_197
+    21300396: AngryPollos_Character_Set_198
+    21300398: AngryPollos_Character_Set_199
+    21300400: AngryPollos_Character_Set_200
+    21300402: AngryPollos_Character_Set_201
+    21300404: AngryPollos_Character_Set_202
+    21300406: AngryPollos_Character_Set_203
+    21300408: AngryPollos_Character_Set_204
+    21300410: AngryPollos_Character_Set_205
+    21300412: AngryPollos_Character_Set_206
+    21300414: AngryPollos_Character_Set_207
+    21300416: AngryPollos_Character_Set_208
+    21300418: AngryPollos_Character_Set_209
+    21300420: AngryPollos_Character_Set_210
+    21300422: AngryPollos_Character_Set_211
+    21300424: AngryPollos_Character_Set_212
+    21300426: AngryPollos_Character_Set_213
+    21300428: AngryPollos_Character_Set_214
+    21300430: AngryPollos_Character_Set_215
+    21300432: AngryPollos_Character_Set_216
+    21300434: AngryPollos_Character_Set_217
+    21300436: AngryPollos_Character_Set_218
+    21300438: AngryPollos_Character_Set_219
+    21300440: AngryPollos_Character_Set_220
+    21300442: AngryPollos_Character_Set_221
+    21300444: AngryPollos_Character_Set_222
+    21300446: AngryPollos_Character_Set_223
+    21300448: AngryPollos_Character_Set_224
+    21300450: AngryPollos_Character_Set_225
+    21300452: AngryPollos_Character_Set_226
+    21300454: AngryPollos_Character_Set_227
+    21300456: AngryPollos_Character_Set_228
+    21300458: AngryPollos_Character_Set_229
+    21300460: AngryPollos_Character_Set_230
+    21300462: AngryPollos_Character_Set_231
+    21300464: AngryPollos_Character_Set_232
+    21300466: AngryPollos_Character_Set_233
+    21300468: AngryPollos_Character_Set_234
+    21300470: AngryPollos_Character_Set_235
+    21300472: AngryPollos_Character_Set_236
+    21300474: AngryPollos_Character_Set_237
+    21300476: AngryPollos_Character_Set_238
+    21300478: AngryPollos_Character_Set_239
+    21300480: AngryPollos_Character_Set_240
+    21300482: AngryPollos_Character_Set_241
+    21300484: AngryPollos_Character_Set_242
+    21300486: AngryPollos_Character_Set_243
+    21300488: AngryPollos_Character_Set_244
+    21300490: AngryPollos_Character_Set_245
+    21300492: AngryPollos_Character_Set_246
+    21300494: AngryPollos_Character_Set_247
+    21300496: AngryPollos_Character_Set_248
+    21300498: AngryPollos_Character_Set_249
+    21300500: AngryPollos_Character_Set_250
+    21300502: AngryPollos_Character_Set_251
+    21300504: AngryPollos_Character_Set_252
+    21300506: AngryPollos_Character_Set_253
+    21300508: AngryPollos_Character_Set_254
+    21300510: AngryPollos_Character_Set_255
+    21300512: AngryPollos_Character_Set_256
+    21300514: AngryPollos_Character_Set_257
+    21300516: AngryPollos_Character_Set_258
+    21300518: AngryPollos_Character_Set_259
+    21300520: AngryPollos_Character_Set_260
+    21300522: AngryPollos_Character_Set_261
+    21300524: AngryPollos_Character_Set_262
+    21300526: AngryPollos_Character_Set_263
+    21300528: AngryPollos_Character_Set_264
+    21300530: AngryPollos_Character_Set_265
+    21300532: AngryPollos_Character_Set_266
+    21300534: AngryPollos_Character_Set_267
+    21300536: AngryPollos_Character_Set_268
+    21300538: AngryPollos_Character_Set_269
+    21300540: AngryPollos_Character_Set_270
+    21300542: AngryPollos_Character_Set_271
+    21300544: AngryPollos_Character_Set_272
+    21300546: AngryPollos_Character_Set_273
+    21300548: AngryPollos_Character_Set_274
+    21300550: AngryPollos_Character_Set_275
+    21300552: AngryPollos_Character_Set_276
+    21300554: AngryPollos_Character_Set_277
+    21300556: AngryPollos_Character_Set_278
+    21300558: AngryPollos_Character_Set_279
+    21300560: AngryPollos_Character_Set_280
+    21300562: AngryPollos_Character_Set_281
+    21300564: AngryPollos_Character_Set_282
+    21300566: AngryPollos_Character_Set_283
+    21300568: AngryPollos_Character_Set_284
+    21300570: AngryPollos_Character_Set_285
+    21300572: AngryPollos_Character_Set_286
+    21300574: AngryPollos_Character_Set_287
+    21300576: AngryPollos_Character_Set_288
+    21300578: AngryPollos_Character_Set_289
+    21300580: AngryPollos_Character_Set_290
+    21300582: AngryPollos_Character_Set_291
+    21300584: AngryPollos_Character_Set_292
+    21300586: AngryPollos_Character_Set_293
+    21300588: AngryPollos_Character_Set_294
+    21300590: AngryPollos_Character_Set_295
+    21300592: AngryPollos_Character_Set_296
+    21300594: AngryPollos_Character_Set_297
+    21300596: AngryPollos_Character_Set_298
+    21300598: AngryPollos_Character_Set_299
+    21300600: AngryPollos_Character_Set_300
+    21300602: AngryPollos_Character_Set_301
+    21300604: AngryPollos_Character_Set_302
+    21300606: AngryPollos_Character_Set_303
+    21300608: AngryPollos_Character_Set_304
+    21300610: AngryPollos_Character_Set_305
+    21300612: AngryPollos_Character_Set_306
+    21300614: AngryPollos_Character_Set_307
+    21300616: AngryPollos_Character_Set_308
+    21300618: AngryPollos_Character_Set_309
+    21300620: AngryPollos_Character_Set_310
+    21300622: AngryPollos_Character_Set_311
+    21300624: AngryPollos_Character_Set_312
+    21300626: AngryPollos_Character_Set_313
+    21300628: AngryPollos_Character_Set_314
+    21300630: AngryPollos_Character_Set_315
+    21300632: AngryPollos_Character_Set_316
+    21300634: AngryPollos_Character_Set_317
+    21300636: AngryPollos_Character_Set_318
+    21300638: AngryPollos_Character_Set_319
+    21300640: AngryPollos_Character_Set_320
+    21300642: AngryPollos_Character_Set_321
+    21300644: AngryPollos_Character_Set_322
+    21300646: AngryPollos_Character_Set_323
+    21300648: AngryPollos_Character_Set_324
+    21300650: AngryPollos_Character_Set_325
+    21300652: AngryPollos_Character_Set_326
+    21300654: AngryPollos_Character_Set_327
+    21300656: AngryPollos_Character_Set_328
+    21300658: AngryPollos_Character_Set_329
+    21300660: AngryPollos_Character_Set_330
+    21300662: AngryPollos_Character_Set_331
+    21300664: AngryPollos_Character_Set_332
+    21300666: AngryPollos_Character_Set_333
+    21300668: AngryPollos_Character_Set_334
+    21300670: AngryPollos_Character_Set_335
+    21300672: AngryPollos_Character_Set_336
+    21300674: AngryPollos_Character_Set_337
+    21300676: AngryPollos_Character_Set_338
+    21300678: AngryPollos_Character_Set_339
+    21300680: AngryPollos_Character_Set_340
+    21300682: AngryPollos_Character_Set_341
+    21300684: AngryPollos_Character_Set_342
+    21300686: AngryPollos_Character_Set_343
+    21300688: AngryPollos_Character_Set_344
+    21300690: AngryPollos_Character_Set_345
+    21300692: AngryPollos_Character_Set_346
+    21300694: AngryPollos_Character_Set_347
+    21300696: AngryPollos_Character_Set_348
+    21300698: AngryPollos_Character_Set_349
+    21300700: AngryPollos_Character_Set_350
+    21300702: AngryPollos_Character_Set_351
+    21300704: AngryPollos_Character_Set_352
+    21300706: AngryPollos_Character_Set_353
+    21300708: AngryPollos_Character_Set_354
+    21300710: AngryPollos_Character_Set_355
+    21300712: AngryPollos_Character_Set_356
+    21300714: AngryPollos_Character_Set_357
+    21300716: AngryPollos_Character_Set_358
+    21300718: AngryPollos_Character_Set_359
+    21300720: AngryPollos_Character_Set_360
+    21300722: AngryPollos_Character_Set_361
+    21300724: AngryPollos_Character_Set_362
+    21300726: AngryPollos_Character_Set_363
+    21300728: AngryPollos_Character_Set_364
+    21300730: AngryPollos_Character_Set_365
+    21300732: AngryPollos_Character_Set_366
+    21300734: AngryPollos_Character_Set_367
+    21300736: AngryPollos_Character_Set_368
+    21300738: AngryPollos_Character_Set_369
+    21300740: AngryPollos_Character_Set_370
+    21300742: AngryPollos_Character_Set_371
+    21300744: AngryPollos_Character_Set_372
+    21300746: AngryPollos_Character_Set_373
+    21300748: AngryPollos_Character_Set_374
+    21300750: AngryPollos_Character_Set_375
+    21300752: AngryPollos_Character_Set_376
+    21300754: AngryPollos_Character_Set_377
+    21300756: AngryPollos_Character_Set_378
+    21300758: AngryPollos_Character_Set_379
+    21300760: AngryPollos_Character_Set_380
+    21300762: AngryPollos_Character_Set_381
+    21300764: AngryPollos_Character_Set_382
+    21300766: AngryPollos_Character_Set_383
+    21300768: AngryPollos_Character_Set_384
+    21300770: AngryPollos_Character_Set_385
+    21300772: AngryPollos_Character_Set_386
+    21300774: AngryPollos_Character_Set_387
+    21300776: AngryPollos_Character_Set_388
+    21300778: AngryPollos_Character_Set_389
+    21300780: AngryPollos_Character_Set_390
+    21300782: AngryPollos_Character_Set_391
+    21300784: AngryPollos_Character_Set_392
+    21300786: AngryPollos_Character_Set_393
+    21300788: AngryPollos_Character_Set_394
+    21300790: AngryPollos_Character_Set_395
+    21300792: AngryPollos_Character_Set_396
+    21300794: AngryPollos_Character_Set_397
+    21300796: AngryPollos_Character_Set_398
+    21300798: AngryPollos_Character_Set_399
+    21300800: AngryPollos_Character_Set_400
+    21300802: AngryPollos_Character_Set_401
+    21300804: AngryPollos_Character_Set_402
+    21300806: AngryPollos_Character_Set_403
+    21300808: AngryPollos_Character_Set_404
+    21300810: AngryPollos_Character_Set_405
+    21300812: AngryPollos_Character_Set_406
+    21300814: AngryPollos_Character_Set_407
+    21300816: AngryPollos_Character_Set_408
+    21300818: AngryPollos_Character_Set_409
+    21300820: AngryPollos_Character_Set_410
+    21300822: AngryPollos_Character_Set_411
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 875
+        width: 127
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 896
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_2
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 898
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_3
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 899
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_4
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 907
+        width: 89
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_5
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 907
+        width: 75
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_6
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 907
+        width: 73
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_7
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 875
+        width: 58
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_8
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 876
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_9
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 875
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_10
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 877
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_11
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 897
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_12
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 875
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_13
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 875
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_14
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 875
+        width: 50
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_15
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 875
+        width: 50
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_16
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 875
+        width: 47
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_17
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 875
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_18
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 884
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_19
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 875
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_20
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 875
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_21
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 875
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 786
+        width: 77
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_23
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 787
+        width: 79
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_24
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 787
+        width: 73
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_25
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 788
+        width: 76
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_26
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 789
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_27
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 792
+        width: 91
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_28
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 792
+        width: 91
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_29
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 792
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_30
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 818
+        width: 18
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_31
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 786
+        width: 17
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_32
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 786
+        width: 17
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_33
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 789
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_34
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 704
+        width: 106
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_35
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 704
+        width: 81
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_37
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 704
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_38
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 705
+        width: 85
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_39
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 705
+        width: 84
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_40
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 705
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_41
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 706
+        width: 73
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_42
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 744
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_43
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 770
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_44
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 751
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_45
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 736
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_46
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 732
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_47
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 704
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_48
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 704
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_49
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 626
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_50
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 628
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_51
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 628
+        width: 79
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_52
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 628
+        width: 76
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_53
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 627
+        width: 69
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_54
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 634
+        width: 84
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_55
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 635
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_56
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 635
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_57
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 637
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_58
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 626
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_59
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 626
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_60
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 627
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_61
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 627
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_62
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 626
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_63
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 626
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_64
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 626
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_65
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 626
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_66
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 626
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_67
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 626
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_68
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 626
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_69
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 626
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_70
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 626
+        width: 64
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_71
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 558
+        width: 118
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_72
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 566
+        width: 71
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_73
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 566
+        width: 71
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_74
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 566
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_75
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 567
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_76
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 567
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_77
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 567
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_78
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 568
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_79
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 569
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_80
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 580
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_81
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 566
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_82
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 566
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_83
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 567
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_84
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 492
+        width: 71
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_85
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 510
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_86
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 509
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_87
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 509
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_88
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 509
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_89
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 510
+        width: 78
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_90
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 510
+        width: 78
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_91
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 513
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_92
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 510
+        width: 4
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_93
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 512
+        width: 141
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_94
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 492
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_95
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 492
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_96
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 455
+        width: 75
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_97
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 463
+        width: 74
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_98
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 463
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_99
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 464
+        width: 79
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_100
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 464
+        width: 78
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_101
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 466
+        width: 56
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_102
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 466
+        width: 56
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_103
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 503
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_104
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 467
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_105
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 426
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_106
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 451
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_107
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 476
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_108
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 466
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_109
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 457
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_110
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 421
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_111
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 425
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_112
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 425
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_113
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 425
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_114
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 426
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_115
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 426
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_116
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 426
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_117
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 426
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_118
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 426
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_119
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 426
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_120
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 426
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_121
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 442
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_122
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 438
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_123
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 403
+        width: 59
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_124
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 430
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_125
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 426
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_126
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 426
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_127
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 408
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_128
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 362
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_129
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 378
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_130
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 401
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_131
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 379
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_132
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 410
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_133
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 413
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_134
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 388
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_135
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 388
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_136
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 388
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_137
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 387
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_138
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 408
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_139
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 389
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_140
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 389
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_141
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 389
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_142
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 389
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_143
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 401
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_144
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 401
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_145
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 400
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_146
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 380
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_147
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 352
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_148
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 379
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_149
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 393
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_150
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 388
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_151
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 388
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_152
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 362
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_153
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 362
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_154
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 357
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_155
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 337
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_156
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 352
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_157
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 353
+        width: 51
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_158
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 354
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_159
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 359
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_160
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 354
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_161
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 354
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_162
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 355
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_163
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 355
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_164
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 356
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_165
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 358
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_166
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 359
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_167
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 299
+        width: 68
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_168
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 314
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_169
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 317
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_170
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 302
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_171
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 311
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_172
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 316
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_173
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 324
+        width: 51
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_174
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 326
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_175
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 326
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_176
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 326
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_177
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 326
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_178
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 326
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_179
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 326
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_180
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 326
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_181
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 326
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_182
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 326
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_183
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 326
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_184
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 326
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_185
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 335
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_186
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 337
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_187
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 297
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_188
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 295
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_189
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 300
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_190
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 300
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_191
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 311
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_192
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 300
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_193
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 300
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_194
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 300
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_195
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 300
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_196
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 300
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_197
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 301
+        width: 49
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_198
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 301
+        width: 43
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_199
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 319
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_200
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 299
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_201
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 299
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_202
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 280
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_203
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 300
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_204
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 301
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_205
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 237
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_206
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 246
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_207
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 253
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_208
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 287
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_209
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 258
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_210
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 266
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_211
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 275
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_212
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 277
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_213
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 277
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_214
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 277
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_215
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 277
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_216
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 277
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_217
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 277
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_218
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 277
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_219
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 277
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_220
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 277
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_221
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 244
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_222
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 250
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_223
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 254
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_224
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 271
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_225
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 255
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_226
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 256
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_227
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 255
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_228
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 255
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_229
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 255
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_230
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 255
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_231
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 255
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_232
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 219
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_233
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 237
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_234
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 255
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_235
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 255
+        width: 49
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_236
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 247
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_237
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 204
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_238
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 244
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_239
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 225
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_240
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 230
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_241
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 233
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_242
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 234
+        width: 37
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_243
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 234
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_244
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 234
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_245
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 234
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_246
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 242
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_247
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 234
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_248
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 234
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_249
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 234
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_250
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 175
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_251
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 187
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_252
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 208
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_253
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 208
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_254
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 226
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_255
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 208
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_256
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 213
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_257
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 213
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_258
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 214
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_259
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 216
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_260
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 215
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_261
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 216
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_262
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 215
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_263
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 214
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_264
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 216
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_265
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 180
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_266
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 216
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_267
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 200
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_268
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 155
+        width: 59
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_269
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 182
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_270
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 172
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_271
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 180
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_272
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 188
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_273
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 186
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_274
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 193
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_275
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 192
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_276
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 196
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_277
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 196
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_278
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 197
+        width: 61
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_279
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 197
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_280
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 197
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_281
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 199
+        width: 48
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_282
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 188
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_283
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 190
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_284
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 175
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_285
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 180
+        width: 60
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_286
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 181
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_287
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 181
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_288
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 181
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_289
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 181
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_290
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 181
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_291
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 181
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_292
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 183
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_293
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 175
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_294
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 175
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_295
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 162
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_296
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 141
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_297
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 151
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_298
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 160
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_299
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 175
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_300
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 164
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_301
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 172
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_302
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 166
+        width: 65
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_303
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 166
+        width: 51
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_304
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 166
+        width: 51
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_305
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 167
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_306
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 114
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_307
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 128
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_308
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 137
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_309
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 150
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_310
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 142
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_311
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 158
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_312
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 161
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_313
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 153
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_314
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 157
+        width: 162
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_315
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 106
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_316
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 133
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_317
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 141
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_318
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 152
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_319
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 148
+        width: 102
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_320
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 124
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_321
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 133
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_322
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 136
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_323
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 133
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_324
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 140
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_325
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 112
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_326
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 102
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_327
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 121
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_328
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 102
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_329
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 120
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_330
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 125
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_331
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 121
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_332
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 124
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_333
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 115
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_334
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 127
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_335
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 114
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_336
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 114
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_337
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 104
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_338
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 104
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_339
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 96
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_340
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 104
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_341
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 111
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_342
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 101
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_343
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 107
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_344
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 114
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_345
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 53
+        width: 67
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_346
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 67
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_347
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 91
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_348
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 58
+        width: 65
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_349
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 100
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_350
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 90
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_351
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 98
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_352
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 101
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_353
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 71
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_354
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 88
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_355
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 79
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_356
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 65
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_357
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 67
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_358
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 69
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_359
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 68
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_360
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 68
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_361
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 76
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_362
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 82
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_363
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 81
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_364
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 88
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_365
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 64
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_366
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 73
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_367
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 64
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_368
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 75
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_369
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 53
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_370
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 63
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_371
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 33
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_372
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 40
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_373
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 41
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_374
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 52
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_375
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 56
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_376
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 64
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_377
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 54
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_378
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 11
+        width: 66
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_379
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 25
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_380
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 46
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_381
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 47
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_382
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 53
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_383
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 69
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_384
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 7
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_385
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 28
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_386
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 28
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_387
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 39
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_388
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 30
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_389
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 42
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_390
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 13
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_391
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 22
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_392
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 31
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_393
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_394
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_395
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 18
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_396
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 4
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_397
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 17
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_398
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 10
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_399
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 13
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_400
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 21
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_401
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_402
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_403
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_404
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_405
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 3
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_406
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_407
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 4
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_408
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 2
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_409
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 6
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_410
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 5
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AngryPollos_Character_Set_411
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

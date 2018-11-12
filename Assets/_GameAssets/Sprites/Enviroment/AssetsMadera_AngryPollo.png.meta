@@ -1,0 +1,856 @@
+fileFormatVersion: 2
+guid: 19d2cc59d33c14a4fa24cb83622d99c7
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: AssetsMadera_AngryPollo_0
+    21300002: AssetsMadera_AngryPollo_1
+    21300004: AssetsMadera_AngryPollo_2
+    21300006: AssetsMadera_AngryPollo_3
+    21300008: AssetsMadera_AngryPollo_4
+    21300010: AssetsMadera_AngryPollo_5
+    21300012: AssetsMadera_AngryPollo_6
+    21300014: AssetsMadera_AngryPollo_7
+    21300016: AssetsMadera_AngryPollo_8
+    21300018: AssetsMadera_AngryPollo_9
+    21300020: AssetsMadera_AngryPollo_10
+    21300022: AssetsMadera_AngryPollo_11
+    21300024: AssetsMadera_AngryPollo_12
+    21300026: AssetsMadera_AngryPollo_13
+    21300028: AssetsMadera_AngryPollo_14
+    21300030: AssetsMadera_AngryPollo_15
+    21300032: AssetsMadera_AngryPollo_16
+    21300034: AssetsMadera_AngryPollo_17
+    21300036: AssetsMadera_AngryPollo_18
+    21300038: AssetsMadera_AngryPollo_19
+    21300040: AssetsMadera_AngryPollo_20
+    21300042: AssetsMadera_AngryPollo_21
+    21300044: AssetsMadera_AngryPollo_22
+    21300046: AssetsMadera_AngryPollo_23
+    21300048: AssetsMadera_AngryPollo_24
+    21300050: AssetsMadera_AngryPollo_25
+    21300052: AssetsMadera_AngryPollo_26
+    21300054: AssetsMadera_AngryPollo_27
+    21300056: AssetsMadera_AngryPollo_28
+    21300058: AssetsMadera_AngryPollo_29
+    21300060: AssetsMadera_AngryPollo_30
+    21300062: AssetsMadera_AngryPollo_31
+    21300064: AssetsMadera_AngryPollo_32
+    21300066: AssetsMadera_AngryPollo_33
+    21300068: AssetsMadera_AngryPollo_34
+    21300070: AssetsMadera_AngryPollo_35
+    21300072: AssetsMadera_AngryPollo_36
+    21300074: AssetsMadera_AngryPollo_37
+    21300076: AssetsMadera_AngryPollo_38
+    21300078: AssetsMadera_AngryPollo_39
+    21300080: AssetsMadera_AngryPollo_40
+    21300082: AssetsMadera_AngryPollo_41
+    21300084: AssetsMadera_AngryPollo_42
+    21300086: AssetsMadera_AngryPollo_43
+    21300088: AssetsMadera_AngryPollo_44
+    21300090: AssetsMadera_AngryPollo_45
+    21300092: AssetsMadera_AngryPollo_46
+    21300094: AssetsMadera_AngryPollo_47
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AssetsMadera_AngryPollo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 333
+        width: 85
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsMadera_AngryPollo_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 333
+        width: 85
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsMadera_AngryPollo_2
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 333
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsMadera_AngryPollo_3
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 376
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsMadera_AngryPollo_4
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 333
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsMadera_AngryPollo_5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 251
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsMadera_AngryPollo_6
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 257
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsMadera_AngryPollo_7
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 257
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsMadera_AngryPollo_8
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 235
+        width: 167
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsMadera_AngryPollo_9
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 292
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsMadera_AngryPollo_10
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 313
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsMadera_AngryPollo_11
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 88
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsMadera_AngryPollo_12
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 213
+        width: 86
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsMadera_AngryPollo_13
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 214
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsMadera_AngryPollo_14
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 193
+        width: 204
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsMadera_AngryPollo_15
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 11
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsMadera_AngryPollo_16
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 83
+        width: 169
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsMadera_AngryPollo_17
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 83
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsMadera_AngryPollo_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsMadera_AngryPollo_19
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 61
+        width: 169
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsMadera_AngryPollo_20
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 60
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsMadera_AngryPollo_21
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 39
+        width: 84
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsMadera_AngryPollo_22
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 16
+        width: 83
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsMadera_AngryPollo_23
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 16
+        width: 84
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsMadera_AngryPollo_24
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 257
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsMadera_AngryPollo_25
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 270
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsMadera_AngryPollo_26
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 290
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsMadera_AngryPollo_27
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 269
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsMadera_AngryPollo_28
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 170
+        width: 204
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsMadera_AngryPollo_29
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 148
+        width: 204
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsMadera_AngryPollo_30
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 127
+        width: 204
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsMadera_AngryPollo_31
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 103
+        width: 170
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsMadera_AngryPollo_32
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 105
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsMadera_AngryPollo_33
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 39
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsMadera_AngryPollo_34
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 43
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsMadera_AngryPollo_35
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 42
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsMadera_AngryPollo_36
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsMadera_AngryPollo_37
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 0
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsMadera_AngryPollo_38
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 170
+        width: 86
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsMadera_AngryPollo_39
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 127
+        width: 86
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsMadera_AngryPollo_40
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 83
+        width: 86
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsMadera_AngryPollo_41
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 170
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsMadera_AngryPollo_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 249
+        width: 85
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsMadera_AngryPollo_43
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 166
+        width: 85
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsMadera_AngryPollo_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 81
+        width: 85
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsMadera_AngryPollo_45
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 333
+        width: 85
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsMadera_AngryPollo_46
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 333
+        width: 85
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsMadera_AngryPollo_47
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 37
+        width: 83
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
